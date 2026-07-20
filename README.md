@@ -23,17 +23,17 @@
 
 ⚔  Specialist at Codeforces (Max 1440) , Solved 450+ Codeforces problems
 
-[![My Skills](https://skillicons.dev/icons?i=cpp
-python
-javascript
-react
-redux
-nodejs
-express
-mongodb
-postgres
-mysql
-git
+[![My Skills](https://skillicons.dev/icons?i=cpp,
+python,
+javascript,
+react,
+redux,
+nodejs,
+express,
+mongodb,
+postgres,
+mysql,
+git,
 github
 )](https://skillicons.dev)
 
