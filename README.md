@@ -37,9 +37,12 @@ git,
 github
 )](https://skillicons.dev)
 
-[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username= aayushdalal)](https://github.com/stats-organization/github-stats-extended)
-[![GitHub Streak](https://streak-stats.demolab.com/?user= aayushdalal)](https://git.io/streak-stats)
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username= aayushdalal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=aayushdalal)](https://github.com/stats-organization/github-stats-extended)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aayushdalal)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=aayushdalal)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
 <!--
