@@ -1,5 +1,5 @@
-https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=AAYUSH%20DALAL&fontColor=ffffff&fontSize=55&fontAlignY=30&textBg=false&animation=fadeIn&desc=Software%20Engineer%20•%20ICPC%20Regionalist&descAlignY=51
 
+![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=AAYUSH%20DALAL&fontColor=ffffff&fontSize=55&fontAlignY=30&textBg=false&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20ICPC%20Regionalist&descAlignY=51)
 <!--
 **aayushdalal/aayushdalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
