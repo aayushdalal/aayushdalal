@@ -1,5 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&height=300&color=gradient&text=AAYUSH%20DALAL&fontColor=ffffff&fontSize=55&fontAlignY=30&textBg=false&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20ICPC%20Regionalist&descAlignY=51)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&height=60&lines=Software+Engineer;ICPC+Regionalist;Backend+Developer;Amazon+ML+Summer+School;AI+%26+NLP+Enthusiast)](https://git.io/typing-svg)
 <!--
 **aayushdalal/aayushdalal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
