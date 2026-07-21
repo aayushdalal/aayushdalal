@@ -8,7 +8,7 @@
 
 ## 👋 About Me
 
-I'm an Electrical Engineering undergrad at NSUT Delhi who spends most of his time on backend systems and applied NLP — equally happy tuning a FAISS index or optimizing a Node.js API.
+I'm an Electrical Engineering undergrad at NSUT Delhi who spends most of his time on Competitive Programming, problem solving,  backend systems and applied NLP — equally happy tuning a FAISS index or optimizing a Node.js API.
 
 - 🎓 B.Tech Electrical Engineering, NSUT Delhi (2023 – 2027)
 - 🏆 ICPC Kanpur Regionalist 2025
